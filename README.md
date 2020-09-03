@@ -20,3 +20,10 @@ Ordered list 1
   1. Item 3a
   1. Item 3b
 (Uses 1. to make)
+
+
+Blockquotes can be done with > symbols
+> like so
+
+There is also inline code
+'<adder>' for example
