@@ -26,4 +26,4 @@ Blockquotes can be done with > symbols
 > like so
 
 There is also inline code
-'<adder>' for example
+'<addr>' for example
