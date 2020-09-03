@@ -26,4 +26,6 @@ Blockquotes can be done with > symbols
 > like so
 
 There is also inline code
-'<addr>' for example
+'<addr>' for example which is done using the >< in the opposite order
+                                                  
+                                                  There is more stuff, but I prefer to end here
